@@ -1,2 +1,2 @@
 # restaurant
- https://afsalsalu.github.io/restaurant/
+ https://afsalsalu.github.io/my-Restaurant/
